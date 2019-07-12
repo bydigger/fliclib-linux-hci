@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ianpugh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\dev\\fliclib-linux-hci\\clientlib\\csharp\\FliclibDotNetClient\\src\\FliclibDotNetClient\\FliclibDotNetClient.csproj",
+      "projectName": "FliclibDotNetClient",
+      "projectPath": "E:\\dev\\fliclib-linux-hci\\clientlib\\csharp\\FliclibDotNetClient\\src\\FliclibDotNetClient\\FliclibDotNetClient.csproj",
+      "packagesPath": "C:\\Users\\ianpugh\\.nuget\\packages\\",
+      "outputPath": "E:\\dev\\fliclib-linux-hci\\clientlib\\csharp\\FliclibDotNetClient\\src\\FliclibDotNetClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ianpugh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net451"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.csprojAssemblyReference.cache
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.FlicButtonControl.resources
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.MainForm.resources
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.Properties.Resources.resources
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.csproj.GenerateResource.cache
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.csproj.CoreCompileInputs.cache
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\bin\Debug\FlicLibTest.exe.config
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\bin\Debug\FlicLibTest.exe
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\bin\Debug\FlicLibTest.pdb
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\bin\Debug\FliclibDotNetClient.dll
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\bin\Debug\FliclibDotNetClient.pdb
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.csproj.CopyComplete
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.exe
+E:\dev\fliclib-linux-hci\clientlib\csharp\GUISample\FlicLibTest\obj\Debug\FlicLibTest.pdb

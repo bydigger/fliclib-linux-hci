@@ -1,0 +1,7 @@
+E:\dev\fliclib-linux-hci\clientlib\csharp\FliclibDotNetClient\src\FliclibDotNetClient\bin\Debug\net451\FliclibDotNetClient.dll
+E:\dev\fliclib-linux-hci\clientlib\csharp\FliclibDotNetClient\src\FliclibDotNetClient\bin\Debug\net451\FliclibDotNetClient.pdb
+E:\dev\fliclib-linux-hci\clientlib\csharp\FliclibDotNetClient\src\FliclibDotNetClient\obj\Debug\net451\FliclibDotNetClient.csprojAssemblyReference.cache
+E:\dev\fliclib-linux-hci\clientlib\csharp\FliclibDotNetClient\src\FliclibDotNetClient\obj\Debug\net451\FliclibDotNetClient.csproj.CoreCompileInputs.cache
+E:\dev\fliclib-linux-hci\clientlib\csharp\FliclibDotNetClient\src\FliclibDotNetClient\obj\Debug\net451\FliclibDotNetClient.AssemblyInfo.cs
+E:\dev\fliclib-linux-hci\clientlib\csharp\FliclibDotNetClient\src\FliclibDotNetClient\obj\Debug\net451\FliclibDotNetClient.dll
+E:\dev\fliclib-linux-hci\clientlib\csharp\FliclibDotNetClient\src\FliclibDotNetClient\obj\Debug\net451\FliclibDotNetClient.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2019
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{05FE72CA-02BF-441E-BFF0-B789DE873CC0}"
 EndProject
@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FliclibDotNetClient", "src\FliclibDotNetClient\FliclibDotNetClient.csproj", "{3115FEF5-C233-42EB-A2C7-181279F60A4C}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "FliclibDotNetClient", "src\FliclibDotNetClient\FliclibDotNetClient.xproj", "{3115FEF5-C233-42EB-A2C7-181279F60A4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,8 +28,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3115FEF5-C233-42EB-A2C7-181279F60A4C} = {05FE72CA-02BF-441E-BFF0-B789DE873CC0}
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8051C502-2EB6-4A24-81F3-534E9062C16D}
 	EndGlobalSection
 EndGlobal
